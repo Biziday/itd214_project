@@ -14,9 +14,11 @@ Data Preparation: Merging multiple CSV files, handling missing values, data clea
 Exploratory Data Analysis (EDA): Analyzing data to understand trends and relationships between different features.
 Modeling: Building a Random Forest Classifier to predict price categories low, medium and high.
 Evaluation: Evaluating model performance using various metrics and visualizations.
+
 User Interaction: A script to allow users to input criteria and get an estimated resale price.
 
 Results
 
 Accuracy: The model achieves an accuracy of 91.7% in predicting price categories.
+
 Confusion Matrix: Detailed breakdown of predictions versus actuals.
